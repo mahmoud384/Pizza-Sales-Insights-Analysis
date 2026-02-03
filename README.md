@@ -1,20 +1,20 @@
-# Pizza Sales Performance & Consumer Insights Analysis
+# Digital Marketing Campaign Performance Analysis
 
 # Project Overview
-This project focuses on analyzing sales data for a pizza store to gain insights into operational performance and customer preferences. The goal was to identify peak sales periods, top-selling products, and revenue drivers to optimize inventory and marketing strategies.
+This project involves a detailed analysis of digital marketing campaigns to evaluate their effectiveness and efficiency. The goal was to analyze key performance metrics such as reach, impressions, and cost-effectiveness to optimize future advertising spend and targeting strategies.
 
-# Business Key Performance Indicators (KPIs)
-* **Total Revenue:** Calculated the overall revenue generated from sales.
-* **Average Order Value (AOV):** Analyzed the average amount spent per order.
-* **Total Pizzas Sold:** Tracked the volume of sales across different categories and sizes.
-* **Sales Trends:** Identified daily and monthly trends to pinpoint peak hours and seasons.
-* **Category Analysis:** Visualized the percentage of sales by pizza category (Classic, Veggie, Supreme, etc.).
+# Key Performance Indicators (KPIs)
+* **Total Ad Spend:** Monitored the total budget allocation across various campaigns.
+* **Reach & Impressions:** Analyzed the scale of audience engagement and brand visibility.
+* **Cost Per Click (CPC):** Calculated the efficiency of ad spend in driving traffic.
+* **Click-Through Rate (CTR):** Measured the engagement level of the target audience with the ads.
+* **Platform Performance:** Compared different advertising channels to identify the most cost-effective platforms.
 
 # Tech Stack
-* **Power BI / Excel:** For data visualization and reporting.
-* **SQL:** Used for querying the database to extract key metrics (Total Orders, Max/Min sales).
-* **Data Cleaning:** Handled date formats and category normalization for accurate reporting.
+* **Power BI:** Created a dynamic dashboard for real-time campaign monitoring.
+* **Excel:** Data cleaning and preprocessing of marketing metrics.
+* **DAX:** Used for calculating custom measures like CTR and average CPC.
 
 ---
 **Author:** Mahmoud Abdel Nasser Attya  
-**Role:** Data Analyst
+**Role:** Data Analyst 
